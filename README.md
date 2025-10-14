@@ -85,10 +85,14 @@ CP-IOT/
 
 ---
 
+Link do vídeo: https://youtu.be/p3s-vH-l6XM?si=jeyxqMhKn0D4K8Oq
+
 ## Integrantes: 
 Nome:**Davi Alves de Lima**  
 RM: **556008**
 Nome:**Rodrigo Alcides Bohac Ríos**
 RM: **554826**
+Nome:**Celina Alcântara do Carmo**
+RM:**558090**
 
 
