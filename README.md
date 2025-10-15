@@ -1,8 +1,10 @@
 # CP-IOT — Classificação de Vinhos com TensorFlow
 
 ## Descrição
+
 Objetivo do Projeto
 O objetivo principal deste projeto é aplicar e demonstrar o conhecimento em Redes Neurais e Visão Computacional, explorando e comparando diferentes ferramentas e técnicas de Deep Learning para análise de imagens e vídeos.
+
 ---
 
 ## Organização do Código
@@ -18,14 +20,15 @@ CP-IOT/
 
 ## Link do vídeo: https://youtu.be/p3s-vH-l6XM?si=jeyxqMhKn0D4K8Oq
 
+
 ## Integrantes: 
-Nome:**Davi Alves de Lima**  
+Nome: **Davi Alves de Lima**  
 RM: **556008**
 
-Nome:**Rodrigo Alcides Bohac Ríos**
+Nome: **Rodrigo Alcides Bohac Ríos**
 RM: **554826**
 
-Nome:**Celina Alcântara do Carmo**
+Nome: **Celina Alcântara do Carmo**
 RM: **558090**
 
 ---
@@ -120,11 +123,11 @@ A Parte 02 é onde exploramos a Visão Computacional aplicando a técnica de Det
 ### Ferramentas Utilizadas 
 Para cumprir o requisito de utilizar duas ferramentas diferentes, escolhemos:
 
-YOLOv8 via Google Colab (.ipynb)
+#### YOLOv8 via Google Colab (.ipynb)
 
 Descrição: Foi utilizado para o treinamento (Fine-Tuning) e inferência do modelo de Detecção de Objetos. Escolhemos o YOLOv8 por ser um modelo de State-of-the-Art conhecido por sua alta velocidade (inferência de 9.1ms) e precisão, ideal para aplicações em tempo real.
 
-Roboflow
+#### Roboflow
 
 Descrição: Foi crucial para o gerenciamento e preparação do dataset. Utilizamos o dataset público wine-label-detection (que continha mais de 4.000 rótulos pré-rotulados), o que economizou meses de trabalho, e exportamos os dados no formato otimizado para o YOLO.
 
@@ -155,7 +158,7 @@ Desempenho (Métricas): O modelo YOLOv8 treinado atingiu um mAP50 de aproximadam
 
 Velocidade: O tempo de inferência obtido foi de 9.1ms por imagem, confirmando a adequação do YOLOv8 para aplicações em tempo real.
 
-Observação Principal: A combinação do Roboflow (organização e qualidade dos dados) com o YOLOv8 (eficiência do treinamento) resultou em um detector de rótulos altamente funcional, capaz de identificar classes específicas mesmo em condições visuais variadas.
+Observação Principal: A combinação do Roboflow com o YOLOv8 resultou em um detector de rótulos altamente funcional, capaz de identificar classes específicas mesmo em condições visuais variadas.
 
 ---
 
