@@ -149,7 +149,7 @@ Classes de Detecção:	Maker-Name, Distinct Logos, AlcoholPercentage, etc.
 
 ### Resultados e Observações sobre Desempenho
 
-Desempenho (Métricas): O modelo YOLOv8 treinado atingiu um mAP50 de aproximadamente 0.614 (ou o valor real) na detecção das classes do rótulo de vinho.
+Desempenho (Métricas): O modelo YOLOv8 treinado atingiu um mAP50 de aproximadamente 0.614 na detecção das classes do rótulo de vinho.
 
 Velocidade: O tempo de inferência obtido foi de 9.1ms por imagem, confirmando a adequação do YOLOv8 para aplicações em tempo real.
 
@@ -157,5 +157,6 @@ Observação Principal: A combinação do Roboflow com o YOLOv8 resultou em um d
 
 ---
 
-### Link do Vídeo de Demonstração (Requisito Atendido)
+### Link do Vídeo de Demonstração  
+
 🎥 Demonstração da Detecção de Rótulos de Vinho: https://youtu.be/p3s-vH-l6XM?si=jeyxqMhKn0D4K8Oq
