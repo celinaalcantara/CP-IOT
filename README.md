@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Objetivo do Projeto
+**Objetivo do Projeto**  
 O objetivo principal deste projeto é aplicar e demonstrar o conhecimento em Redes Neurais e Visão Computacional, explorando e comparando diferentes ferramentas e técnicas de Deep Learning para análise de imagens e vídeos.
 
 ---
