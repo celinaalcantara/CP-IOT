@@ -22,12 +22,10 @@ RM: **558090**
 ## Organização do Código
 
 CP-IOT/
-
 │  
 ├── parte_01_redes_neurais          # Contém o código (.ipynb) dos exercícios de Redes Neurais.  
 ├── parte_02_visao_computacional    # Contém o código (.ipynb) do exercício de Visão Computacional.  
 ├── README.md   
-│
 
 
 ## Link do vídeo: https://youtu.be/p3s-vH-l6XM?si=jeyxqMhKn0D4K8Oq
