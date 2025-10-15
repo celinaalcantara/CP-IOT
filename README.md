@@ -7,29 +7,35 @@ O objetivo principal deste projeto é aplicar e demonstrar o conhecimento em Red
 
 ---
 
+## Integrantes: 
+Nome: **Davi Alves de Lima**  
+RM: **556008**
+
+Nome: **Rodrigo Alcides Bohac Ríos**  
+RM: **554826**
+
+Nome: **Celina Alcântara do Carmo**  
+RM: **558090**
+
+---
+
 ## Organização do Código
 
 CP-IOT/
+
 │
+
 ├── parte_01_redes_neurais          # Contém o código (.ipynb) dos exercícios de Redes Neurais.
+
 ├── parte_02_visao_computacional    # Contém o código (.ipynb) do exercício de Visão Computacional.
+
 ├── README.md 
+
 │
 
 ---
 
 ## Link do vídeo: https://youtu.be/p3s-vH-l6XM?si=jeyxqMhKn0D4K8Oq
-
-
-## Integrantes: 
-Nome: **Davi Alves de Lima**  
-RM: **556008**
-
-Nome: **Rodrigo Alcides Bohac Ríos**
-RM: **554826**
-
-Nome: **Celina Alcântara do Carmo**
-RM: **558090**
 
 ---
 
@@ -41,7 +47,7 @@ Esta parte contém a implementação e análise dos exercícios baseados no arqu
 ## 🚀 Como rodar o experimento
 
 ### 1️⃣ Clonar o repositório
-git clone https://github.com/Davi-lima081022/CP-IOT.git
+git clone https://github.com/celinaalcantara/CP-IOT.git
 
 cd CP-IOT
 
@@ -57,13 +63,9 @@ pip install -r requirements.txt
 Conteúdo do arquivo `requirements.txt`:
 
 tensorflow
-
 numpy
-
 pandas
-
 scikit-learn
-
 matplotlib
 
 ---
